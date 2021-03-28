@@ -6,4 +6,4 @@ Giving the right overview about Pandemic Issue in Netherland - Acces the Power o
 Project Apply multiple and hard technique of visulization skill. 
 Project linked with 2nd winner Hackathon. 
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/Image corona virus.JPG )
